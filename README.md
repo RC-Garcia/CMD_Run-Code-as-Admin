@@ -1,7 +1,7 @@
 # CMD_Run-Code-as-Admin
 Runs a sequence of commands in Command Prompt (CMD) with administrator privileges involves using the 'runas' command. Below is an example of a batch file that runs commands with elevated privileges
 
-# Instruction for Use
+# Instructions for Use
 1. Open Notepad or any text editor.
 2. Copy and paste the above code into the text editor.
 3. Save the file with a .bat extension, for example, RunAsAdmin.bat.
